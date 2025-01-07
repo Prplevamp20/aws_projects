@@ -1,2 +1,2 @@
 # aws_projects
-Repository to showcase my AWS projects, tasks, and learnings. Includes examples of cloud infrastructure setups, automation scripts, security implementations, and more.
+This repository contains a comprehensive collection of AWS tasks and projects I’ve completed, ranging from provisioning EC2 instances to implementing security policies, automating workflows, and setting up advanced monitoring systems.
